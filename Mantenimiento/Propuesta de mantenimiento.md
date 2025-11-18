@@ -20,7 +20,7 @@
 
 
 
-#### ***2. Problema: Poca perzonalicacion para la interfaz del usuario***
+## ***2. Problema: Poca perzonalicacion para la interfaz del usuario***
 
 
 
