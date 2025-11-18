@@ -7,13 +7,13 @@ Principalmente se usa en proyectos de software por su facil documentacion.
 
 
 
-##### Archivos README
+##### **Archivos README**
 
 &nbsp;El archivo readme es algo importante en todos los proyectos ya que es lo primero que el usuario ve, contiene pasos basico de como funciona nuestro proyecto, que hacermos con el o como instalarlo.
 
 
 
-##### Sistemas de Control de Versiones
+##### **Sistemas de Control de Versiones**
 
 &nbsp;Sitios como github presentan archivos .md con formato automaticamente lo que permite que se vean claros y bien organizadoss
 
@@ -32,12 +32,12 @@ Principalmente se usa en proyectos de software por su facil documentacion.
 
 ## **Desventajas de usar Markdown con GitHub** 
 
-##### Funcionalidad Limitada
+##### **Funcionalidad Limitada**
 
  Markdown al ser de diseño simple si necesitas funciones o ilustracion mas avanzada tendras que recurrir a lenguajes mas avanzados como HTML u otros.
 
 
 
-##### No ideal para documentos largos
+##### **No ideal para documentos largos**
  
  Cuando la documentacion es enorme como libros o guias extensas Markdown puede volverse dificil de organizar y mantener
