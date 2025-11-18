@@ -38,38 +38,38 @@ Los objetivos del sistema se enfocan en garantizar que la aplicación cumpla su 
 
 * **CP1**
 
-  *Tipo: Unitario
-  *Requerimiento: RF1
-  *Datos: Usuario ingresa la fecha y la hora de la cita
-  *Resutado esperado: La cita queda registrada y se programa un aviso previo
-  *Resultado obtenido: La cita se creó correctamente y se configuró una alerta automática
+ *Tipo: Unitario
+ *Requerimiento: RF1
+ *Datos: Usuario ingresa la fecha y la hora de la cita
+ *Resutado esperado: La cita queda registrada y se programa un aviso previo
+ *Resultado obtenido: La cita se creó correctamente y se configuró una alerta automática
 
 
 * **CP3**
 
-  *Tipo: Unitario
-  *Requerimiento: RF2
-  *Datos: Categoría ingresada: “Revisión médica"
-  *Resutado esperado: La cita debe mostrarse con la etiqueta correspondiente a la categoría seleccionada
-  *Resultado obtenido: La cita se visualiza con un color distintivo asignado a la categoría
+ *Tipo: Unitario
+ *Requerimiento: RF2
+ *Datos: Categoría ingresada: “Revisión médica"
+ *Resutado esperado: La cita debe mostrarse con la etiqueta correspondiente a la categoría seleccionada
+ *Resultado obtenido: La cita se visualiza con un color distintivo asignado a la categoría
 
 
 * **CP4**
 
-  *Tipo: Validacion
-  *Requerimiento: RNF2
-  *Datos: Usuario escribe sus credenciales (usuario y contraseña)
-  *Resutado esperado: El sistema debe validar la información y permitir el acceso
-  *Resultado obtenido: Las credenciales fueron aceptadas y se ingresó al sistema sin inconvenientes
+ *Tipo: Validacion
+ *Requerimiento: RNF2
+ *Datos: Usuario escribe sus credenciales (usuario y contraseña)
+ *Resutado esperado: El sistema debe validar la información y permitir el acceso
+ *Resultado obtenido: Las credenciales fueron aceptadas y se ingresó al sistema sin inconvenientes
 
 
 * **CP5**
 
-  *Tipo: Validacion
-  *Requerimiento: RF5
-  *Datos: El usuario selecciona un intervalo de fechas para exportar
-  *Resutado esperado: Se debe generar un archivo PDF con las citas dentro del rango indicado
-  *Resultado obtenido: Se generó correctamente un PDF con las citas seleccionadas
+ *Tipo: Validacion
+ *Requerimiento: RF5
+ *Datos: El usuario selecciona un intervalo de fechas para exportar
+ *Resutado esperado: Se debe generar un archivo PDF con las citas dentro del rango indicado
+ *Resultado obtenido: Se generó correctamente un PDF con las citas seleccionadas
 
 
 
