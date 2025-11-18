@@ -7,9 +7,11 @@ El sistema de Agenda personal de citas es una app cuyo proposito es tener mas or
 
 
 ## Objetivos del sistema
-Los objetivos del sistema: 
-*Lo que el sistema **"Debe hacer"** (RF)
-*Las **"caracteristicas"** que debe cumplir (RNF)
+
+ Los objetivos del sistema: 
+  
+  * Lo que el sistema **"Debe hacer"** (RF)
+  * Las **"caracteristicas"** que debe cumplir (RNF)
 
 
 
